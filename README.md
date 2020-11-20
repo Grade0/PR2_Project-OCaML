@@ -18,7 +18,9 @@ A concrete example of a dictionary is given below:
 
     Warehouse = {'apples': 430, 'bananas': 312, 'oranges': 525, 'pears': 217}
     
-Dictionaries are characterized by several primitive operations.
+<br>
+    
+Dictionaries are characterized by several primitive operations:
 
 The **insert** operation inserts a key-value pair into a dictionary. For example: the operation **insert(`kiwi', 300, Warehouse)** produces as result the dictionary:
 
@@ -73,6 +75,8 @@ Pertanto, un dizionario è una collezione di coppie chiave-valore dove la chiave
 Un esempio concreto di dizionario è riportato di seguito:  
 
     Magazzino = {'mele': 430, 'banane': 312, 'arance': 525, 'pere': 217}
+    
+<br>
     
 I dizionari sono caratterizzati da diverse operazioni primitive.
 
