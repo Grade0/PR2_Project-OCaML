@@ -5,8 +5,7 @@
 #### PROGRAMMING II – A.Y. 2019-20 | Second Project
 <br>  
 
-**Target:** The project aims to apply the concepts and techniques of Functional programming examined during the course.  , and consists in the design and implementation of some software modules.  
-
+**Target:** The project aims to apply the concepts and techniques of Functional programming examined during the course.
 **Description:** Design and development of an interpreter in Ocaml
 
 
